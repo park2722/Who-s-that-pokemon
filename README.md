@@ -64,8 +64,6 @@ streamlit run app.py
 
 ## 🖥️ 데모 화면 (Demo & Top-5 Predictions)
 
-> **💡 Note:** 아래 이미지 경로(`demo_gui.png`, `demo_top5.png`)를 방금 캡처하신 실제 이미지 파일의 이름과 경로로 수정해 주세요! 캡처 이미지를 `result` 폴더 안에 넣고 `result/파일명.png`로 적으시면 깔끔합니다.
-
 모델을 선택하고 포켓몬 이미지를 업로드하면, Top-5 예측 확률을 시각적으로 확인할 수 있습니다.
 
 ### 1. Streamlit GUI 메인 화면
